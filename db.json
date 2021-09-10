@@ -1,0 +1,239 @@
+{
+    "Personajes": [
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Mickey Mouse",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Minnie Mouse",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Aurora",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Mulan",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Cenicienta",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Blancanieves",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Alicia",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Mufasa",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Lilo",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        },
+        {
+            "imagen": "img/mickey-mouse.jpg",
+            "nombre": "Dumbo",
+            "edad": "92",
+            "peso": 1,
+            "historia": "Mickey Mouse es un personaje ficticio de la serie del mismo nombre, emblema de la compañía Disney. Creado el 18 de noviembre de 1928, este ratón tiene un origen disputado. La leyenda oficial explica que fue creado por Walt Disney durante un viaje en tren y que su nombre inicial fue Mortimer, pero que cambió a Mickey a petición de su esposa, Lillian. Según Bob Thomas, la leyenda del nombre es ficticia, y cita el caso de un personaje llamado Mortimer Mouse, que nació en 1936, tío de Minnie Mouse.1​ La versión más verosímil es que el personaje fue creado por el dibujante Ub Iwerks, a petición de Disney 2​ A Walt Disney sólo hay que atribuirle tanto la voz del personaje, como la personalidad y el carácter del ratón. Su cabeza era un círculo con otro círculo a modo de hocico. Su cuerpo era como una pera y tenía una cola larga; sus patas eran tubos y se las metimos en zapatos grandes para darle el aspecto de un chiquillo con el calzado de su padre. The Walt Disney Company celebra el nacimiento de Mickey el 18 de noviembre de 1928, a raíz del estreno de Steamboat Willie, primer cortometraje sonoro de dibujos animados, y tercera aparición del ratón.3​ Walt Disney prestó su voz al personaje, durante dieciséis años, desde 1928 hasta 1947, cuando fue sustituido por el técnico de sonido Jimmy MacDonald. Desde 1977 la voz es de Wayne Allwine hasta 2009 desde entonces es interpretado por Bret Iwan. A lo largo de los años Mickey ha aparecido en dibujos animados, cine, tiras cómicas, videojuegos, convirtiéndose en el icono de la compañía Walt Disney, que comparte nombre con su creador.",
+            "películas/series asociadas": ["Plane Crazy", "Bongo", "Fantasía", "Fantasía 2000", "House of Mouse", "La Casa de Mickey Mouse", "Mickey, Donald, Goofy: Los Tres Mosqueteros", "¿Quién engañó a Roger Rabbit?", "La Sirenita", "A Goofy Movie", "Toy Story", "Toy Story 2", "Chicken Little", "Frozen", "Frozen II"]
+        }
+    ],
+
+    "Película/Serie": [
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Blancanieves y los siete enanitos",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Cenicienta",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Alicia en el país de las maravillas",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Monsters INC",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Toy Story",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Jonas Brothers",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Sunny entre estrellas",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Hannah Montana",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "WandaVision",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Avengers",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Mis amigos Tigger & Pooh",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Princesita Sofía",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Maléfica",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "La Dama y el Vagabundo (Live Action)",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "El regreso de Mary Poppins",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "El Rey León",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        },
+        {
+            "imagen": "img/blancanieves-y-los-7-enanitos.jpg",
+            "título": "Coco",
+            "fecha de creación": "21/12/1937",
+            "calificación 1/5": 5,
+            "personajes asociados": ["Blancanieves", "Grimhilde (Reina Malvada)", "Humbert", "Príncipe", "Doc", "Tímido", "Dormilón", "Estornudo", "Feliz", "Gruñón", "Tontín"]
+        }
+    ],
+
+    "Género": [
+        {
+            "nombre": "Animaciones originales de Disney",
+            "imagen": "img/personajes-animados.jpg",
+            "películas/series asociadas": ["Fantasía", "Blancanieves y los siete enanitos", "Dumbo", "La Cenicienta", "Alicia en el País de las Maravillas", "Los Aristogatos", "Bernardo y Bianca", "Oliver y su Pandilla", "La Bella Durmiente", "Bambi", "La Dama y el Vagabundo", "Pinocho", "La noche de las narices frías", "La Bella y la Bestia", "Mulán", "Aladdin", "El libro de la Selva", "Tarzán", "La Sirenita", "El Rey León", "Peter Pan", "El jorobado de Notre Dame", "Hércules", "El Zorro y el Sabueso", "Lilo & Stitch", "Phineas & Ferb", "House of Mouse", "La Casa de Mickey Mouse", "El Patito Feo", "El Flautista de Hamelín", "Moana", "Encantada", "Frozen", "Enredados", "Atlantis", "Tierra de Osos", "Pocahontas", "Ralph el Demoledor", "Valiente", "El extraño mundo de Jack", "Robin Hood", "Las Locuras del Emperador", "Winnie Pooh"]
+        },
+        {
+            "nombre": "Disney Pixar",
+            "imagen": "img/disney-pixar.jpg",
+            "películas/series asociadas":["Buscando a Nemo", "Toy Story", "Monsters Inc.", "Cars", "Ratatouille", "Wall-e", "Up", "Los Increíbles", "Bichos: Una aventura en miniatura", "Coco", "Soul", "Unidos", "Intensamente"]
+        },
+        {
+            "nombre": "Disney Channel/Producciones no animadas",
+            "imagen": "img/Disney-Channel.jpeg",
+            "películas/series asociadas":["Jonas Brothers", "High School Musical", "Hannah Montana", "Los Hechiceros de Warvely Place", "Sunny entre Estrellas", "Jessie", "Zac & Cody", "Camp Rock", "Piratas del Caribe", "Violetta", "A todo ritmo", "Soy Luna", "Buena suerte Charlie", "Manny a la obra", "Kim Possible", "Jake Long: El dragón occidental", "Brandy y el señor Bigotes", "Lizzie McGuire", "Pecezuelos", "Juego de Gemelas", "Abracadabra"]
+        },
+        {
+            "nombre": "Marvel",
+            "imagen": "img/disney-marvel.jpg",
+            "películas/series asociadas": ["WandaVision", "Capitan America", "Iron Man", "Avengers", "Capitana Marvel", "X-Men", "Thor", "Guardianes de la Galaxia", "Ant-Man", "Falcon y el soldado del invierno", "Pantera negra", "Doctor Strange", "Los 4 fantásticos", "Wolverine"]
+        },
+        {
+            "nombre": "Disney Junior",
+            "imagen": "img/disney-junior.jpg",
+            "películas/series asociadas": ["Mis amigos Tigger & Pooh", "Princesita Sofía", "Vampirina", "La casa de Disney Junior", "Junior Express", "La Casa de Mickey Mouse", "Doctora Juguetes", "Manny a la obra", "El Ristorantino de Arnoldo", "Mini Einsteins", "Rolie Polie Olie y su familia"]
+        },
+        {
+            "nombre": "Live Actions",
+            "imagen": "img/live-actions.jpg",
+            "películas/series asociadas":["Maléfica", "101 Dálmatas", "Aladdin (Live Action)", "Mulán (Live Action)", "El Rey León (Live Action)", "Dumbo (Live Action)", "La Cenicienta (Live Action)", "El regreso de Mary Poppins", "La Dama y el Vagabundo (Live Action)", "Alicia a través del espejo"]
+        }
+    ]
+}
